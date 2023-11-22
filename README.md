@@ -15,7 +15,7 @@ The site has been created using the following programming languages:
 
 _El sitio ha sido creado utilizando los siguientes lenguajes de programación:_
 
-- **HTML** :Used for the basic structure of the page. | _Utilizado para la estructura básica de la página._
+- **HTML**: Used for the basic structure of the page. | _Utilizado para la estructura básica de la página._
 - **CSS**: Responsible for the design and style of the site.  | _Responsable del diseño y estilo del sitio._
 - **JavaScript (JS)**: Implemented to animate the page and improve the user experience. | _Implementado para animar la página y mejorar la experiencia del usuario._
 
