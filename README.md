@@ -37,6 +37,6 @@ Thank you for exploring this project! Feel free to contribute, leave suggestions
 
 _¡Gracias por explorar este proyecto! Siéntete libre de contribuir, dejar sugerencias o informar sobre problemas. ¡Esperamos que disfrutes explorando el universo de Billie Eilish!_
 
-You can view the website at the following link
-_Puedes ver el sitio web en el siguiente enlace_
+You can view the website at the following link |
+_Puedes ver el sitio web en el siguiente enlace: _
 [Portfolio](https://universeneko.github.io/portfolio/)
